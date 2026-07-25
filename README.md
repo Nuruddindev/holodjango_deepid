@@ -113,4 +113,3 @@ pytest
 ## License
 
 MIT — see [LICENSE](./LICENSE).
-# holodjango_deepid
